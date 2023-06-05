@@ -25,4 +25,3 @@ It is a demo e-commerce travel related full-stack website. I have listed below s
 - Express JS
 - MongoDB
 
-You can see server side code in [ Dream-Destination Client](https://github.com/Porgramming-Hero-web-course/complete-website-server-Aporbo)
