@@ -6,7 +6,7 @@ import img4 from '../../../images/about/4.jpg'
 import './About.css'
 const About = () => {
     return (
-        <section class="page-section" id="about" style={{ backgroundColor: "#Dff0f3" }} >
+        <section class="page-section" id="about" style={{ backgroundColor: "#DEBC31" }} >
             <div class="container">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">About
